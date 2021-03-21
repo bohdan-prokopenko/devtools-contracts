@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Authors>Bohdan Prokopenko</Authors>
+    <Company>Bohdan Prokopenko</Company>
+    <Description>Provides contract for creating plugins as well as base MVVM classes.</Description>
+    <RepositoryType>public</RepositoryType>
+    <PackageTags>DevTools, Development tools, tools, wpf, contracts, interfaces</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
